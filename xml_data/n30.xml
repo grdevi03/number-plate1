@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Day_data_trucks_378</folder>
+	<filename>n30.jpeg</filename>
+	<path>/home/ramya/PROJECT_TRACTOR/2Days_data_trucks_378/data/n30.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>num_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>602</ymin>
+			<xmax>273</xmax>
+			<ymax>678</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Single_Day_data_trucks_378</folder>
+	<filename>n2.jpeg</filename>
+	<path>/home/ramya/PROJECT_TRACTOR/2Days_data_trucks_378/data/n2.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>721</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>num_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>661</ymin>
+			<xmax>552</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+</annotation>
